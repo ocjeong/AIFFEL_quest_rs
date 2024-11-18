@@ -15,7 +15,7 @@ AIFFEL_quest_rs
 │   │   ├── submission_LGBMRegressor_RMSLE_0.164399.csv 
 │   │   └── README.md  
 │   ├── Quest03  
-│   │   ├── .ipynb  
+│   │   ├── camera_sticker.ipynb  
 │   │   └── README.md  
 │   ├── Quest04  
 │   │   ├── .ipynb  
