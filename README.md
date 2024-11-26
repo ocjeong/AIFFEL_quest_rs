@@ -42,7 +42,8 @@ AIFFEL_quest_rs
 │   │   ├── sentiment_analysis_revised.ipynb  
 │   │   └── README.md  
 │   ├── Ex06  
-│   │   ├── summerize_proj.ipynb 
+│   │   ├── summerize_proj.ipynb
+│   │   ├── summerize_proj_revised.ipynb 
 │   │   └── README.md  
 │   └── Ex07   
 │       ├── .ipynb  
