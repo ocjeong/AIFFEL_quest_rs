@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/b92f9327-ea8e-4608-9f49-3f0d0c19cf49)# AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+# AIFFEL Campus Online Code Peer Review Templete
+- 코더 : 정우철
+- 리뷰어 : 윤수영
 
 
 # PRT(Peer Review Template)
