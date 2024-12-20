@@ -46,16 +46,17 @@ AIFFEL_quest_rs
 │   │   ├── summerize_proj_revised.ipynb 
 │   │   └── README.md  
 │   └── Ex07   
-│       ├── .ipynb  
+│       ├── chatbot_kor.ipynb
 │       └── README.md  
 │  
 └── GoingDeeper   
-    ├── GD02  
-    │   ├── .ipynb  
-    │   └── README.md  
-    ├── GD04  
-    │   ├── .ipynb  
-    │   └── README.md  
+    ├── GD02
+    │   ├── nsmc.ipynb
+    │   └── README.md
+    ├── GD04
+    │   ├── README.md
+    │   ├── reuters_proj.ipynb
+    │   └── reuters_proj_revised.ipynb
     ├── GD06  
     │   ├── .ipynb  
     │   └── README.md  
@@ -78,4 +79,3 @@ AIFFEL_quest_rs
         ├── .ipynb  
         └── README.md  
 ```
-
