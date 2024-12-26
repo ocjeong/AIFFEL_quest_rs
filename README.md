@@ -57,15 +57,17 @@ AIFFEL_quest_rs
     │   ├── README.md
     │   ├── reuters_proj.ipynb
     │   └── reuters_proj_revised.ipynb
-    ├── GD06  
-    │   ├── .ipynb  
-    │   └── README.md  
-    ├── GD08  
-    │   ├── .ipynb  
-    │   └── README.md  
-    ├── GD10  
-    │   ├── .ipynb  
-    │   └── README.md  
+    ├── GD06
+    │   ├── README.md
+    │   └── synopsys.ipynb
+    ├── GD08
+    │   ├── README.md
+    │   ├── translator_kor2eng.ipynb
+    │   └── translator_kor2eng_revised.ipynb
+    ├── GD10
+    │   ├── README.md
+    │   ├── trsfmr_review.ipynb
+    │   └── trsfmr_review_revised.ipynb
     ├── GD12  
     │   ├── .ipynb  
     │   └── README.md  
