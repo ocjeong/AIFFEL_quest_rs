@@ -69,15 +69,16 @@ AIFFEL_quest_rs
     │   ├── trsfmr_review.ipynb
     │   └── trsfmr_review_revised.ipynb
     ├── GD12  
-    │   ├── .ipynb  
+    │   ├── bleu_chatbot.ipynb
+    │   ├── bleu_chatbot_revised.ipynb  
     │   └── README.md  
     ├── GD14  
-    │   ├── .ipynb  
+    │   ├── minibert_pretrain.ipynb  
     │   └── README.md  
     ├── GD16  
-    │   ├── .ipynb  
+    │   ├── huggingface_nsmc.ipynb
     │   └── README.md  
     └── GD18  
-        ├── .ipynb  
+        ├── sft_rm_ppo_proj.ipynb  
         └── README.md  
 ```
